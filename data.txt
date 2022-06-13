@@ -1,129 +1,23 @@
 
 
-Name -->Vasu Goyal
-Works At -->SDE Intern 2022 @ Qualcomm
-Location -->Uttar Pradesh, India
- Skills 
-
-Web Development
-C++
-C (Programming Language)
-
-Name -->Vecha Sumanth
-Works At -->App Dev Intern @ Oracle |  EEE @ IIT-BHU
-Location -->Varanasi, Uttar Pradesh, India
- Skills 
-
-
-Name -->Chitransh Agnihotri
-Works At -->Simple Solutions for Challenges that Matter
-Location -->Mumbai, Maharashtra, India
- Skills 
-
-Team Management
-Business Strategy
-Manufacturing
-Entrepreneurship
-Lean Manufacturing
-Production Planning
-Strategic Planning
-Process Engineering
-Customer Relationship Management (CRM)
-Pre-sales
-Supply Chain
-Management
-Analysis
-Competitive Analysis
-Small Business Marketing
-Operations Management
-Market Research
-Project Planning
-Product Development
-Supply Chain Management
-Cross-functional Team Leadership
-Engineering
-Leadership
-Proposal Writing
-Strategy
-Project Management
-Product Management
-Six Sigma
-
-Name -->Shyam Rathod
-Works At -->SWE Intern 2022 @ American Express
-Location -->Jodhpur, Rajasthan, India
- Skills 
-
-Python (Programming Language)
-Data Structures
-Video Editing
-Adobe Premiere Pro
-C++
-JavaScript
-HTML5
-React.js
-Cascading Style Sheets (CSS)
-Django
-
 Name -->Pranjali Gupta
 Works At -->Student at Indian Institute of Technology (Banaras Hindu University), Varanasi
 Location -->Rajasthan, India
  Skills 
 
-Content Development
-Event Planning
-Public Speaking
-User Experience Design (UED)
-Vocal Music
-Python (Programming Language)
-Emotional Intelligence
-Communication
-Digital Sales
-Web Content Writing
 Data Science
 Microsoft Excel
-Pandas (Software)
-Fine Art
-Customer Journey Mapping
-Volunteer Recruiting
-
-Name -->Vinamra Bansal
-Works At -->Top PM Fellow @ NextLeap | Ex- Product Manager @ MyAnalyticsSchool | Ex- Business Analyst Intern OYO | IIT BHU
-Location -->Jaipur, Rajasthan, India
- Skills 
-
-Public Speaking
-Public Relations
-Data Analytics
-Data Analysis
+Communication
 Python (Programming Language)
-R
-Leadership
-Team Leadership
-MySQL
-Machine Learning
-C++
-Microsoft Excel
-Text Mining
-Software Development
-Social Network Analysis
-Natural Language Processing (NLP)
-
-Name -->Soham Agarwal
-Works At -->APM fellow @ Nextleap | Business Dev Intern @ Flipkart | BITS Pilani
-Location -->Hyderabad, Telangana, India
- Skills 
-
-Engineering
-Supply Chain Management
-MATLAB
-Project Management
-Revit
-STAAD-Pro
-AutoCAD
-Microsoft Excel
-Problem Solving
-Operations Management
-Product Development
-Product Management
-Trading
+Vocal Music
+Volunteer Recruiting
+User Experience Design (UED)
+Public Speaking
+Digital Sales
+Web Content Writing
+Pandas (Software)
+Customer Journey Mapping
+Emotional Intelligence
+Event Planning
+Fine Art
+Content Development
